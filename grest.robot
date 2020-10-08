@@ -8,6 +8,6 @@ G0014 latest
 
 G0015
 
-G0016
+G0016 latest
 
 G0017
