@@ -1,27 +1,3 @@
 main grest
 
-C1234
-
-G0001
-
-G0002 updated
-
-G0003
-
-G0004
-
-G0005
-
-G0006
-
-G0007
-
-G0008
-
-G0007 latest
-
-G0009 update
-
-G0010
-
-G0011
+G0012 updated
